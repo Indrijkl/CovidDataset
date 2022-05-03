@@ -1,5 +1,4 @@
-# Ollist-Brazillian-Ecommerce 
-# (Meachine Learning-Unsupervised Portofolio)
+# Ollist-Brazillian-Ecommerce (Machine Learning-Unsupervised Portofolio)
 
 This repository was made to store data about our final project. This project is part of the requirement in completing the Data Science study program at Purwadhika Startup & Coding School. This notebook contains EDA, seller segmentations and customer segmentations from the dataset Brazilian E-commerce Olist. The dataset used can be accessed freely from https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce.
 
